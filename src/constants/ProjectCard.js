@@ -1,16 +1,17 @@
 export const ProjectCard = [
   {
-    id: 1,
-    images:
-      "https://res.cloudinary.com/dls0snoaa/image/upload/v1710918094/Macbook-Air-dashboard-designs-dev-1.vercel.app_1_azkebk.png",
-    title: "Admin Dashboard",
-    description:
-      "The Dashboard Designs Project is a web application that showcases various dashboard designs tailored for different purposes, such as analytics, reporting, and project management. The project focuses on providing a visually appealing and user-friendly interface that enhances the user experience when navigating through complex data and metrics",
-    projectDate: " May 10, 2022",
-    ProjectProgress: "Finished",
-    githubLink: "https://github.com/DanXtech/Dashboard-Designs-Dev-1",
-    demoLink: "https://dashboard-designs-dev-1.vercel.app/",
-  },
+  id: 1,
+  images:
+    "https://res.cloudinary.com/dls0snoaa/image/upload/v1759341108/01.10.2025_18.41.48_REC_kmmd0x.png",
+  title: "Reve App Landing Page",
+  description:
+    "The Reve App Landing Page is a modern and responsive web interface designed to promote the Reve mobile application. It features an elegant layout, smooth animations, and intuitive navigation that highlight the app's key features and benefits. The landing page is optimized for performance and user engagement, ensuring a seamless experience across all devices.",
+  projectDate: "June 14, 2023",
+  ProjectProgress: "Finished",
+  githubLink: "https://github.com/DanXtech/2vest_Revve",
+  demoLink: "https://2vest-revve-b9q6.vercel.app/",
+},
+
   {
     id: 2,
     images:
